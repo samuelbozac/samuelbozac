@@ -1,6 +1,6 @@
 <p align="left"> <!--- <img src="https://komarev.com/ghpvc/?username=samuelbozac" alt="samuelbozac" /> --><img src="https://www.codewars.com/users/samuelbozac/badges/small" /></p> 
 
-💼 I’m currently working on back-end web development<br>🚀 I’m looking to collaborate on ambitious projects<br>🤝 I’m looking for help with great professionals<br>📚 I’m currently learning AWS, Docker, Python, and others technologies<br>🎮 Videogames and football fan
+💼 I’m currently working on back-end web development<br>🚀 I’m looking to collaborate on ambitious projects<br>🤝 I’m looking for help with great professionals<br>📚 I’m currently learning AWS, Docker, Python, and others technologies<br>🎮 Videogames and soccer fan
 
 
 ## 🌐 Socials:
